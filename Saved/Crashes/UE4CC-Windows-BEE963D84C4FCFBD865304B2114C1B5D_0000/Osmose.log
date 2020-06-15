@@ -1,0 +1,1167 @@
+﻿Log file open, 06/12/20 10:14:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Osmose
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.077067
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin HoudiniNiagara
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin NiagaraExtras
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin LDAssistant
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce RTX 2060 SUPER
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.06.12-08.14.16:276][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.06.12-08.14.16:276][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.06.12-08.14.16:276][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/OsmoseLove/Saved/Config/Windows/Engine.ini]
+[2020.06.12-08.14.16:276][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.06.12-08.14.16:276][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.06.12-08.14.16:276][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/OsmoseLove/Saved/Config/Windows/Engine.ini]
+[2020.06.12-08.14.16:276][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/OsmoseLove/Saved/Config/Windows/Engine.ini]
+[2020.06.12-08.14.16:276][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.06.12-08.14.16:276][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.06.12-08.14.16:276][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.06.12-08.14.16:276][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.06.12-08.14.16:276][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.06.12-08.14.16:276][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.06.12-08.14.16:276][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.06.12-08.14.16:276][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.06.12-08.14.16:276][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.06.12-08.14.16:276][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.06.12-08.14.16:276][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.06.12-08.14.16:276][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.06.12-08.14.16:276][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.06.12-08.14.16:276][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.06.12-08.14.16:276][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/OsmoseLove/Saved/Config/Windows/Engine.ini]
+[2020.06.12-08.14.16:276][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.06.12-08.14.16:276][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.06.12-08.14.16:276][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.06.12-08.14.16:276][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.06.12-08.14.16:276][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.06.12-08.14.16:277][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.06.12-08.14.16:277][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.06.12-08.14.16:277][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.06.12-08.14.16:277][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.06.12-08.14.16:277][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.06.12-08.14.16:277][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.06.12-08.14.16:277][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.06.12-08.14.16:277][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.06.12-08.14.16:277][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/OsmoseLove/Saved/Config/Windows/Engine.ini]
+[2020.06.12-08.14.16:277][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/OsmoseLove/Saved/Config/Windows/Engine.ini]
+[2020.06.12-08.14.16:279][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/OsmoseLove/Saved/Config/Windows/Scalability.ini]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/OsmoseLove/Saved/Config/Windows/Scalability.ini]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/OsmoseLove/Saved/Config/Windows/Scalability.ini]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/OsmoseLove/Saved/Config/Windows/Scalability.ini]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/OsmoseLove/Saved/Config/Windows/Scalability.ini]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/OsmoseLove/Saved/Config/Windows/Scalability.ini]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.12-08.14.16:280][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.12-08.14.16:281][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.12-08.14.16:281][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.12-08.14.16:281][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.12-08.14.16:281][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.06.12-08.14.16:281][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.12-08.14.16:281][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.12-08.14.16:281][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.06.12-08.14.16:281][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.06.12-08.14.16:281][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.06.12-08.14.16:281][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.06.12-08.14.16:281][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.06.12-08.14.16:281][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.06.12-08.14.16:281][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.06.12-08.14.16:281][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.06.12-08.14.16:281][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.06.12-08.14.16:281][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.06.12-08.14.16:281][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.06.12-08.14.16:281][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/OsmoseLove/Saved/Config/Windows/Scalability.ini]
+[2020.06.12-08.14.16:281][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.12-08.14.16:281][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.12-08.14.16:281][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/OsmoseLove/Saved/Config/Windows/Scalability.ini]
+[2020.06.12-08.14.16:281][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.06.12-08.14.16:281][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.06.12-08.14.16:281][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.06.12-08.14.16:281][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.12-08.14.16:281][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.06.12-08.14.16:284][  0]LogHAL: Display: Platform has ~ 16 GB [17135923200 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.06.12-08.14.16:284][  0]LogInit: Going up to parent DeviceProfile []
+[2020.06.12-08.14.16:284][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/OsmoseLove/Saved/Config/Windows/Scalability.ini]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.12-08.14.16:284][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/OsmoseLove/Saved/Config/Windows/Scalability.ini]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.12-08.14.16:284][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/OsmoseLove/Saved/Config/Windows/Scalability.ini]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.12-08.14.16:284][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/OsmoseLove/Saved/Config/Windows/Scalability.ini]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.12-08.14.16:284][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/OsmoseLove/Saved/Config/Windows/Scalability.ini]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/OsmoseLove/Saved/Config/Windows/Scalability.ini]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/OsmoseLove/Saved/Config/Windows/Scalability.ini]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/OsmoseLove/Saved/Config/Windows/Scalability.ini]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.06.12-08.14.16:285][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.06.12-08.14.16:286][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.06.12-08.14.16:286][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.06.12-08.14.16:286][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.06.12-08.14.16:286][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/OsmoseLove/Saved/Config/Windows/Engine.ini]
+[2020.06.12-08.14.16:286][  0]LogInit: Computer: DESKTOP-BK3QJGD
+[2020.06.12-08.14.16:286][  0]LogInit: User: Jeanne
+[2020.06.12-08.14.16:286][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.06.12-08.14.16:286][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.06.12-08.14.16:286][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.06.12-08.14.16:286][  0]LogMemory: Platform Memory Stats for Windows
+[2020.06.12-08.14.16:286][  0]LogMemory: Process Physical Memory: 105.15 MB used, 105.16 MB peak
+[2020.06.12-08.14.16:286][  0]LogMemory: Process Virtual Memory: 104.61 MB used, 104.61 MB peak
+[2020.06.12-08.14.16:286][  0]LogMemory: Physical Memory: 6633.55 MB used,  9708.54 MB free, 16342.09 MB total
+[2020.06.12-08.14.16:286][  0]LogMemory: Virtual Memory: 5139.46 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.06.12-08.14.16:289][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.06.12-08.14.16:310][  0]LogInit: Using OS detected language (fr-FR).
+[2020.06.12-08.14.16:310][  0]LogInit: Using OS detected locale (fr-FR).
+[2020.06.12-08.14.16:311][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2020.06.12-08.14.16:311][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2020.06.12-08.14.16:311][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2020.06.12-08.14.16:311][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2020.06.12-08.14.16:312][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2020.06.12-08.14.16:312][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2020.06.12-08.14.16:312][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2020.06.12-08.14.16:312][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2020.06.12-08.14.16:313][  0]LogInit: Setting process to per monitor DPI aware
+[2020.06.12-08.14.16:340][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.06.12-08.14.16:340][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.06.12-08.14.16:497][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.06.12-08.14.16:497][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.06.12-08.14.16:497][  0]LogD3D11RHI: D3D11 adapters:
+[2020.06.12-08.14.16:563][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060 SUPER' (Feature Level 11_0)
+[2020.06.12-08.14.16:563][  0]LogD3D11RHI:       8031/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.06.12-08.14.16:566][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.06.12-08.14.16:566][  0]LogD3D11RHI:       0/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.06.12-08.14.16:566][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.06.12-08.14.16:572][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.06.12-08.14.16:573][  0]LogD3D11RHI:     GPU DeviceId: 0x1f06 (for the marketing name, search the web for "GPU Device Id")
+[2020.06.12-08.14.16:573][  0]LogWindows: EnumDisplayDevices:
+[2020.06.12-08.14.16:573][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060 SUPER' (P:1 D:1)
+[2020.06.12-08.14.16:573][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2020.06.12-08.14.16:573][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2020.06.12-08.14.16:574][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2020.06.12-08.14.16:574][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.06.12-08.14.16:574][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060 SUPER
+[2020.06.12-08.14.16:574][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.06.12-08.14.16:574][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.06.12-08.14.16:574][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2020.06.12-08.14.16:616][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.06.12-08.14.16:616][  0]LogD3D11RHI: Async texture creation enabled
+[2020.06.12-08.14.16:682][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.06.12-08.14.17:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.06.12-08.14.17:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.06.12-08.14.17:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.06.12-08.14.17:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.06.12-08.14.17:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.06.12-08.14.17:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.06.12-08.14.17:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.06.12-08.14.17:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.06.12-08.14.17:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.06.12-08.14.17:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.06.12-08.14.17:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.06.12-08.14.17:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.06.12-08.14.17:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.06.12-08.14.17:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.06.12-08.14.17:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.06.12-08.14.17:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.06.12-08.14.17:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.06.12-08.14.17:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.06.12-08.14.17:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.06.12-08.14.17:237][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.06.12-08.14.17:237][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.06.12-08.14.17:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.06.12-08.14.17:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.06.12-08.14.17:259][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.06.12-08.14.17:266][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.06.12-08.14.17:274][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.06.12-08.14.17:282][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.06.12-08.14.17:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.06.12-08.14.17:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.06.12-08.14.17:320][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.06.12-08.14.17:320][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.06.12-08.14.17:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.06.12-08.14.17:336][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.06.12-08.14.17:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.06.12-08.14.17:352][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.06.12-08.14.17:352][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.06.12-08.14.17:355][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.06.12-08.14.17:380][  0]LogShaderCompilers: Guid format shader working directory is 18 characters bigger than the processId version (../../../../../../OsmoseLove/Intermediate/Shaders/WorkingDirectory/14072/).
+[2020.06.12-08.14.17:380][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jeanne/AppData/Local/Temp/UnrealShaderWorkingDir/DFF480914891B395969D46BB8FC46E42/'.
+[2020.06.12-08.14.17:381][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.06.12-08.14.17:381][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.06.12-08.14.17:381][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.06.12-08.14.18:609][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.06.12-08.14.18:672][  0]LogDerivedDataCache: Loaded boot cache 0.06s 91MB C:/Users/Jeanne/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.06.12-08.14.18:672][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jeanne/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.06.12-08.14.18:672][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../OsmoseLove/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.06.12-08.14.18:672][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.06.12-08.14.18:672][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../OsmoseLove/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.12-08.14.18:672][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.06.12-08.14.18:681][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.06.12-08.14.18:681][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.12-08.14.18:681][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.06.12-08.14.18:682][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jeanne/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.06.12-08.14.18:682][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.06.12-08.14.18:682][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.06.12-08.14.18:707][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.06.12-08.14.18:709][  0]LogSlate: Using FreeType 2.10.0
+[2020.06.12-08.14.18:710][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.06.12-08.14.18:769][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2020.06.12-08.14.19:129][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.12-08.14.19:291][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.06.12-08.14.19:291][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.06.12-08.14.19:291][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.06.12-08.14.19:291][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.06.12-08.14.19:291][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.06.12-08.14.19:302][  0]LogNetVersion: Osmose 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 389872372)
+[2020.06.12-08.14.20:494][  0]LogPackageLocalizationCache: Processed 14 localized package path(s) for 1 prioritized culture(s) in 0.105339 seconds
+[2020.06.12-08.14.20:501][  0]LogUObjectArray: 46123 objects as part of root set at end of initial load.
+[2020.06.12-08.14.20:501][  0]LogUObjectAllocator: 8035544 out of 0 bytes used by permanent object pool.
+[2020.06.12-08.14.20:501][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.06.12-08.14.24:149][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.06.12-08.14.24:152][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.06.12-08.14.24:199][  0]SourceControl: Source control is disabled
+[2020.06.12-08.14.24:199][  0]SourceControl: Source control is disabled
+[2020.06.12-08.14.24:200][  0]SourceControl: Source control is disabled
+[2020.06.12-08.14.24:201][  0]SourceControl: Source control is disabled
+[2020.06.12-08.14.24:202][  0]SourceControl: Source control is disabled
+[2020.06.12-08.14.26:596][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.06.12-08.14.26:606][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.06.12-08.14.26:606][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.06.12-08.14.26:789][  0]LogEngine: Initializing Engine...
+[2020.06.12-08.14.26:790][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.06.12-08.14.27:155][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.06.12-08.14.27:168][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.06.12-08.14.27:170][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.12-08.14.27:170][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.12-08.14.27:170][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.12-08.14.27:170][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.12-08.14.27:170][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.12-08.14.27:170][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.12-08.14.27:170][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.12-08.14.27:170][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.12-08.14.27:170][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.12-08.14.27:170][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.12-08.14.27:200][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.12-08.14.27:200][  0]LogAudioMixer: Display: Name: Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2020.06.12-08.14.27:200][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.06.12-08.14.27:200][  0]LogAudioMixer: Display: Sample Rate: 44100
+[2020.06.12-08.14.27:200][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.12-08.14.27:200][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.12-08.14.27:200][  0]LogAudioMixer: Display: Channel Order:
+[2020.06.12-08.14.27:200][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.12-08.14.27:200][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.06.12-08.14.27:252][  0]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2020.06.12-08.14.27:256][  0]LogInit: FAudioDevice initialized.
+[2020.06.12-08.14.27:256][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.06.12-08.14.29:110][  0]LogDerivedDataCache: Saved boot cache 1.85s 91MB C:/Users/Jeanne/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.06.12-08.14.29:114][  0]LogInit: Texture streaming: Enabled
+[2020.06.12-08.14.29:123][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.06.12-08.14.29:123][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.06.12-08.14.29:126][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.06.12-08.14.29:749][  0]LogInit: Transaction tracking system initialized
+[2020.06.12-08.14.29:758][  0]BlueprintLog: New page: Editor Load
+[2020.06.12-08.14.29:793][  0]LocalizationService: Localization service is disabled
+[2020.06.12-08.14.30:192][  0]LogFileCache: Scanning file cache for directory 'C:/OsmoseLove/Content/' took 0.06s
+[2020.06.12-08.14.30:192][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.06.12-08.14.30:192][  0]LogCook: Display: Mobile HDR setting 1
+[2020.06.12-08.14.30:345][  0]SourceControl: Source control is disabled
+[2020.06.12-08.14.30:345][  0]Cmd: MAP LOAD FILE="../../../../../../OsmoseLove/Content/_Osmose/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.12-08.14.30:684][  0]LightingResults: New page: Lighting Build
+[2020.06.12-08.14.30:685][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.06.12-08.14.30:694][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.12-08.14.30:694][  0]MapCheck: New page: Map Check
+[2020.06.12-08.14.30:694][  0]LightingResults: New page: Lighting Build
+[2020.06.12-08.14.30:743][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.06.12-08.14.59:733][  0]LogNiagaraEditor: Verbose: '/Game/_Osmose/VFX/NS_SplineWind' Precompile took 0.386735 sec.
+[2020.06.12-08.15.03:239][  0]LogTemp: Display: Loading shader for Niagara script NiagaraScript /Game/_Osmose/VFX/NS_SplineWind.NS_SplineWind:OldSchool_spawner001_6.GPUComputeScript from DDC failed. Shader needs recompile.
+[2020.06.12-08.15.05:578][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.12-08.15.05:935][  0]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Plant_2.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.05:935][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Plant_2.Leaf' 
+[2020.06.12-08.15.05:935][  0]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Plant_2.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.05:936][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Plant_2.Leaf1' 
+[2020.06.12-08.15.05:936][  0]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Plant2.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.05:936][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Plant2.Leaf' 
+[2020.06.12-08.15.05:936][  0]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Plant2.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.05:936][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Plant2.Leaf1' 
+[2020.06.12-08.15.06:311][  0]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Plant_2.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.06:311][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Plant_2.Leaf' 
+[2020.06.12-08.15.06:311][  0]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Plant_2.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.06:311][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Plant_2.Leaf' 
+[2020.06.12-08.15.06:311][  0]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Plant_2.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.06:311][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Plant_2.Leaf1' 
+[2020.06.12-08.15.06:311][  0]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Plant_2.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.06:311][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Plant_2.Leaf1' 
+[2020.06.12-08.15.06:312][  0]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Plant2.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.06:312][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Plant2.Leaf' 
+[2020.06.12-08.15.06:312][  0]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Plant2.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.06:312][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Plant2.Leaf' 
+[2020.06.12-08.15.06:313][  0]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Plant2.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.06:313][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Plant2.Leaf1' 
+[2020.06.12-08.15.06:313][  0]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Plant2.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.06:313][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Plant2.Leaf1' 
+[2020.06.12-08.15.06:330][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.12-08.15.06:393][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.06.12-08.15.06:393][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.12-08.15.06:393][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,149ms to complete.
+[2020.06.12-08.15.06:393][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 36.048
+[2020.06.12-08.15.07:805][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.12-08.15.07:897][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.12-08.15.07:911][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.12-08.15.07:918][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.12-08.15.08:106][  0]LogCollectionManager: Loaded 0 collections in 0.001851 seconds
+[2020.06.12-08.15.08:527][  0]LogFileCache: Scanning file cache for directory 'C:/OsmoseLove/Saved/Collections/' took 0.00s
+[2020.06.12-08.15.08:527][  0]LogFileCache: Scanning file cache for directory 'C:/OsmoseLove/Content/Developers/Jeanne/Collections/' took 0.00s
+[2020.06.12-08.15.08:527][  0]LogFileCache: Scanning file cache for directory 'C:/OsmoseLove/Content/Collections/' took 0.00s
+[2020.06.12-08.15.08:527][  0]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 3161 classes and 743 folders.
+[2020.06.12-08.15.08:822][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.06.12-08.15.14:104][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.06.12-08.15.16:096][  0]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.12-08.15.16:120][  0]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.06.12-08.15.16:876][  0]LogRenderer: Reallocating scene render targets to support 1052x624 Format 10 NumSamples 1 (Frame:1).
+[2020.06.12-08.15.17:522][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.06.12-08.15.17:522][  0]LogLoad: (Engine Initialization) Total time: 64.23 seconds
+[2020.06.12-08.15.17:522][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.06.12-08.15.17:602][  0]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2020.06.12-08.15.18:128][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.06.12-08.15.18:283][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/OsmoseLove/Content/' took 0.68s
+[2020.06.12-08.15.22:651][ 40]LogAssetRegistry: Asset discovery search completed in 63.8831 seconds
+[2020.06.12-08.15.22:654][ 40]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2020.06.12-08.15.35:582][146]LogSlate: Took 0.145580 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.06.12-08.15.35:773][146]LogSlate: Took 0.050452 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.12-08.15.40:468][492]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.12-08.15.40:536][492]LogAIModule: Creating AISystem for world Osmose_P
+[2020.06.12-08.15.40:536][492]LogAssetEditorSubsystem: Opening Asset editor for World /Game/_Osmose/Maps/Osmose_P.Osmose_P
+[2020.06.12-08.15.40:664][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.06.12-08.15.40:711][492]Cmd: MAP LOAD FILE="../../../../../../OsmoseLove/Content/_Osmose/Maps/Osmose_P.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.12-08.15.40:713][492]LightingResults: New page: Lighting Build
+[2020.06.12-08.15.40:714][492]LoadErrors: New page: Loading map: Osmose_P.umap
+[2020.06.12-08.15.40:751][492]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.12-08.15.40:751][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.12-08.15.40:751][492]MapCheck: New page: Map Check
+[2020.06.12-08.15.40:751][492]LightingResults: New page: Lighting Build
+[2020.06.12-08.15.40:925][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.06.12-08.15.40:928][492]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD) is flushing async loading
+[2020.06.12-08.15.40:928][492]LogStreaming: Display: Flushing async loaders.
+[2020.06.12-08.15.49:830][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant_2.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.49:830][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant_2.Leaf1' 
+[2020.06.12-08.15.49:830][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant_2.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.49:830][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant_2.Leaf' 
+[2020.06.12-08.15.49:831][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant2.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.49:831][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant2.Leaf1' 
+[2020.06.12-08.15.49:831][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant2.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.49:831][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant2.Leaf' 
+[2020.06.12-08.15.49:831][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant3.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.49:831][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant3.Leaf1' 
+[2020.06.12-08.15.49:831][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant3.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.49:831][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant3.Leaf' 
+[2020.06.12-08.15.49:831][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant4.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.49:832][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant4.Leaf1' 
+[2020.06.12-08.15.49:832][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant4.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.49:832][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant4.Leaf' 
+[2020.06.12-08.15.49:832][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant5.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.49:832][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant5.Leaf1' 
+[2020.06.12-08.15.49:832][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant5.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.49:832][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant5.Leaf' 
+[2020.06.12-08.15.49:860][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant_2.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.49:860][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant_2.Leaf' 
+[2020.06.12-08.15.49:860][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant_2.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.49:860][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant_2.Leaf' 
+[2020.06.12-08.15.49:860][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant_2.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.49:860][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant_2.Leaf1' 
+[2020.06.12-08.15.49:860][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant_2.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.49:860][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant_2.Leaf1' 
+[2020.06.12-08.15.49:862][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant2.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.49:862][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant2.Leaf' 
+[2020.06.12-08.15.49:862][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant2.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.49:862][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant2.Leaf' 
+[2020.06.12-08.15.49:862][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant2.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.49:862][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant2.Leaf1' 
+[2020.06.12-08.15.49:862][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant2.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.49:862][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant2.Leaf1' 
+[2020.06.12-08.15.49:864][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant3.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.49:864][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant3.Leaf' 
+[2020.06.12-08.15.49:864][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant3.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.49:864][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant3.Leaf' 
+[2020.06.12-08.15.49:864][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant3.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.49:864][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant3.Leaf1' 
+[2020.06.12-08.15.49:864][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant3.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.49:864][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant3.Leaf1' 
+[2020.06.12-08.15.49:866][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant4.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.49:866][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant4.Leaf' 
+[2020.06.12-08.15.49:866][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant4.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.49:866][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant4.Leaf' 
+[2020.06.12-08.15.49:866][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant4.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.49:866][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant4.Leaf1' 
+[2020.06.12-08.15.49:866][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant4.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.49:866][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant4.Leaf1' 
+[2020.06.12-08.15.49:867][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant5.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.49:867][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant5.Leaf' 
+[2020.06.12-08.15.49:867][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant5.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.49:867][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant5.Leaf' 
+[2020.06.12-08.15.49:867][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant5.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.49:867][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant5.Leaf1' 
+[2020.06.12-08.15.49:867][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant5.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.15.49:867][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Plant5.Leaf1' 
+[2020.06.12-08.15.49:887][492]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD) is flushing async loading
+[2020.06.12-08.17.02:200][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant2.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.02:200][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant2.Leaf1' 
+[2020.06.12-08.17.02:200][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant2.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.02:200][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant2.Leaf' 
+[2020.06.12-08.17.02:200][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant_2.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.02:200][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant_2.Leaf1' 
+[2020.06.12-08.17.02:200][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant_2.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.02:200][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant_2.Leaf' 
+[2020.06.12-08.17.02:206][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant5.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.02:206][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant5.Leaf1' 
+[2020.06.12-08.17.02:206][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant5.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.02:206][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant5.Leaf' 
+[2020.06.12-08.17.02:206][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant6.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.02:206][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant6.Leaf1' 
+[2020.06.12-08.17.02:206][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant6.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.02:206][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant6.Leaf' 
+[2020.06.12-08.17.02:206][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant7.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.02:206][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant7.Leaf1' 
+[2020.06.12-08.17.02:206][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant7.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.02:207][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant7.Leaf' 
+[2020.06.12-08.17.02:207][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant8.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.02:207][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant8.Leaf1' 
+[2020.06.12-08.17.02:207][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant8.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.02:207][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant8.Leaf' 
+[2020.06.12-08.17.02:413][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant2.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.02:413][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant2.Leaf' 
+[2020.06.12-08.17.02:413][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant2.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.02:413][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant2.Leaf1' 
+[2020.06.12-08.17.02:414][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant_2.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.02:414][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant_2.Leaf' 
+[2020.06.12-08.17.02:414][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant_2.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.02:415][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant_2.Leaf1' 
+[2020.06.12-08.17.02:481][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant5.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.02:481][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant5.Leaf' 
+[2020.06.12-08.17.02:481][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant5.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.02:481][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant5.Leaf1' 
+[2020.06.12-08.17.02:482][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant6.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.02:482][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant6.Leaf' 
+[2020.06.12-08.17.02:482][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant6.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.02:482][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant6.Leaf1' 
+[2020.06.12-08.17.02:484][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant7.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.02:484][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant7.Leaf' 
+[2020.06.12-08.17.02:484][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant7.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.02:484][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant7.Leaf1' 
+[2020.06.12-08.17.02:485][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant8.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.02:485][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant8.Leaf' 
+[2020.06.12-08.17.02:485][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant8.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.02:485][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant8.Leaf1' 
+[2020.06.12-08.17.02:597][492]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/_Osmose/Maps/MapPrincipal/Map_Tuto_LD) is flushing async loading
+[2020.06.12-08.17.10:713][492]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD) is flushing async loading
+[2020.06.12-08.17.43:474][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant11_8.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:474][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant11_8.Leaf1' 
+[2020.06.12-08.17.43:475][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant11_8.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:475][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant11_8.Leaf' 
+[2020.06.12-08.17.43:475][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant12.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:475][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant12.Leaf1' 
+[2020.06.12-08.17.43:475][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant12.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:475][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant12.Leaf' 
+[2020.06.12-08.17.43:475][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant13.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:475][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant13.Leaf1' 
+[2020.06.12-08.17.43:475][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant13.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:475][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant13.Leaf' 
+[2020.06.12-08.17.43:479][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant_8.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:479][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant_8.Leaf1' 
+[2020.06.12-08.17.43:479][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant_8.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:479][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant_8.Leaf' 
+[2020.06.12-08.17.43:479][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant2.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:479][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant2.Leaf1' 
+[2020.06.12-08.17.43:479][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant2.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:479][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant2.Leaf' 
+[2020.06.12-08.17.43:480][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant3_2.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:480][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant3_2.Leaf1' 
+[2020.06.12-08.17.43:480][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant3_2.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:480][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant3_2.Leaf' 
+[2020.06.12-08.17.43:481][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant4.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:481][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant4.Leaf1' 
+[2020.06.12-08.17.43:481][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant4.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:481][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant4.Leaf' 
+[2020.06.12-08.17.43:483][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant5.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:483][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant5.Leaf1' 
+[2020.06.12-08.17.43:483][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant5.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:483][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant5.Leaf' 
+[2020.06.12-08.17.43:560][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant11_8.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:560][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant11_8.Leaf' 
+[2020.06.12-08.17.43:560][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant11_8.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:560][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant11_8.Leaf' 
+[2020.06.12-08.17.43:560][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant11_8.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:560][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant11_8.Leaf1' 
+[2020.06.12-08.17.43:560][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant11_8.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:560][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant11_8.Leaf1' 
+[2020.06.12-08.17.43:561][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant12.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:562][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant12.Leaf' 
+[2020.06.12-08.17.43:562][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant12.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:562][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant12.Leaf' 
+[2020.06.12-08.17.43:562][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant12.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:562][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant12.Leaf1' 
+[2020.06.12-08.17.43:562][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant12.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:562][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant12.Leaf1' 
+[2020.06.12-08.17.43:563][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant13.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:564][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant13.Leaf' 
+[2020.06.12-08.17.43:564][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant13.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:564][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant13.Leaf' 
+[2020.06.12-08.17.43:564][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant13.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:564][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant13.Leaf1' 
+[2020.06.12-08.17.43:564][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant13.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:564][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant13.Leaf1' 
+[2020.06.12-08.17.43:567][492]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Plant_FourLeaf_C /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant_FourLeaf_2
+	Function /Game/_Osmose/BP_Class/Environment/Plants/Plant.Plant_C:UserConstructionScript:027A
+[2020.06.12-08.17.43:567][492]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Plant_FourLeaf_C /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant_FourLeaf_2
+	Function /Game/_Osmose/BP_Class/Environment/Plants/Plant.Plant_C:UserConstructionScript:027A
+[2020.06.12-08.17.43:575][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant_8.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:575][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant_8.Leaf' 
+[2020.06.12-08.17.43:575][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant_8.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:575][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant_8.Leaf' 
+[2020.06.12-08.17.43:575][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant_8.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:575][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant_8.Leaf1' 
+[2020.06.12-08.17.43:576][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant_8.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:576][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant_8.Leaf1' 
+[2020.06.12-08.17.43:578][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant2.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:578][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant2.Leaf' 
+[2020.06.12-08.17.43:578][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant2.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:578][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant2.Leaf' 
+[2020.06.12-08.17.43:578][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant2.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:578][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant2.Leaf1' 
+[2020.06.12-08.17.43:578][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant2.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:578][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant2.Leaf1' 
+[2020.06.12-08.17.43:580][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant3_2.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:580][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant3_2.Leaf' 
+[2020.06.12-08.17.43:581][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant3_2.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:581][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant3_2.Leaf' 
+[2020.06.12-08.17.43:581][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant3_2.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:581][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant3_2.Leaf1' 
+[2020.06.12-08.17.43:581][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant3_2.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:581][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant3_2.Leaf1' 
+[2020.06.12-08.17.43:583][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant4.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:583][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant4.Leaf' 
+[2020.06.12-08.17.43:583][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant4.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:583][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant4.Leaf' 
+[2020.06.12-08.17.43:584][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant4.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:584][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant4.Leaf1' 
+[2020.06.12-08.17.43:584][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant4.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:584][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant4.Leaf1' 
+[2020.06.12-08.17.43:632][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant5.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:632][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant5.Leaf' 
+[2020.06.12-08.17.43:632][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant5.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:632][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant5.Leaf' 
+[2020.06.12-08.17.43:632][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant5.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:632][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant5.Leaf1' 
+[2020.06.12-08.17.43:632][492]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant5.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.17.43:632][492]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Plant5.Leaf1' 
+[2020.06.12-08.17.43:725][492]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'PopPoints' of length 2 in '/Game/_Osmose/BP_Class/Possessables/RootTree/TreeRoot.TreeRoot_C'!
+[2020.06.12-08.17.44:030][492]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.12-08.17.44:165][492]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.06.12-08.17.44:215][492]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.12-08.17.44:216][492]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,672ms to complete.
+[2020.06.12-08.17.44:216][492]LogFileHelpers: Loading map 'Osmose_P' took 123.521
+[2020.06.12-08.17.45:332][493]LogSlate: Took 0.144293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.06.12-08.17.48:538][527]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.12-08.17.48:716][527]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Osmose/Maps/Osmose_P.Osmose_P:PersistentLevel' has LevelScriptBlueprint '/Game/_Osmose/Maps/Osmose_P.Osmose_P:PersistentLevel.Osmose_P' with GeneratedClass '/Game/_Osmose/Maps/Osmose_P.Osmose_P_C' with ClassGeneratedBy '/Game/_Osmose/Maps/Osmose_P.Osmose_P:PersistentLevel.Osmose_P'
+[2020.06.12-08.17.48:716][527]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel' has LevelScriptBlueprint '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Map_Credit_LD' with GeneratedClass '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD_C' with ClassGeneratedBy '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Map_Credit_LD'
+[2020.06.12-08.17.48:716][527]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel' has LevelScriptBlueprint '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Map_Feu_LD' with GeneratedClass '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD_C' with ClassGeneratedBy '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Map_Feu_LD'
+[2020.06.12-08.17.48:716][527]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Osmose/Maps/MapPrincipal/Map_Tuto_LD.Map_Tuto_LD:PersistentLevel' has LevelScriptBlueprint '/Game/_Osmose/Maps/MapPrincipal/Map_Tuto_LD.Map_Tuto_LD:PersistentLevel.Map_Tuto_LD' with GeneratedClass '/Game/_Osmose/Maps/MapPrincipal/Map_Tuto_LD.Map_Tuto_LD_C' with ClassGeneratedBy '/Game/_Osmose/Maps/MapPrincipal/Map_Tuto_LD.Map_Tuto_LD:PersistentLevel.Map_Tuto_LD'
+[2020.06.12-08.17.48:716][527]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel' has LevelScriptBlueprint '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Map_Eau_LD' with GeneratedClass '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD_C' with ClassGeneratedBy '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Map_Eau_LD'
+[2020.06.12-08.17.48:717][527]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.12-08.17.48:734][527]PIE: New page: PIE session: Osmose_P (12 juin 2020 à 12:17:48)
+[2020.06.12-08.17.48:788][527]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.06.12-08.17.48:812][527]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.06.12-08.17.48:824][527]LogPlayLevel: Creating play world package: /Game/_Osmose/Maps/UEDPIE_0_Osmose_P
+[2020.06.12-08.17.48:867][527]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001877s)
+[2020.06.12-08.17.48:868][527]LogAIModule: Creating AISystem for world Osmose_P
+[2020.06.12-08.17.48:868][527]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2020.06.12-08.17.48:868][527]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Osmose/Maps/Osmose_P.Osmose_P to /Game/_Osmose/Maps/UEDPIE_0_Osmose_P.Osmose_P (0.043923s)
+[2020.06.12-08.17.48:899][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.06.12-08.17.48:905][527]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.12-08.17.48:905][527]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.12-08.17.48:905][527]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.12-08.17.48:905][527]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.12-08.17.48:905][527]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.12-08.17.48:905][527]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.12-08.17.48:905][527]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.12-08.17.48:905][527]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.12-08.17.48:906][527]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.12-08.17.48:906][527]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.12-08.17.48:929][527]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.12-08.17.48:930][527]LogAudioMixer: Display: Name: Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2020.06.12-08.17.48:930][527]LogAudioMixer: Display: Is Default: Yes
+[2020.06.12-08.17.48:930][527]LogAudioMixer: Display: Sample Rate: 44100
+[2020.06.12-08.17.48:930][527]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.12-08.17.48:930][527]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.12-08.17.48:930][527]LogAudioMixer: Display: Channel Order:
+[2020.06.12-08.17.48:930][527]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.12-08.17.48:930][527]LogAudioMixer: Display: 1: FrontRight
+[2020.06.12-08.17.48:969][527]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2020.06.12-08.17.48:971][527]LogInit: FAudioDevice initialized.
+[2020.06.12-08.17.48:996][527]LogLoad: Game class is 'PossessGameMode_C'
+[2020.06.12-08.17.49:455][527]LogWorld: Bringing World /Game/_Osmose/Maps/UEDPIE_0_Osmose_P.Osmose_P up for play (max tick rate 0) at 2020.06.12-10.17.49
+[2020.06.12-08.17.49:576][527]LogWorld: Bringing up level for play took: 0.120334
+[2020.06.12-08.17.49:576][527]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.06.12-08.17.49:817][527]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.06.12-08.17.49:818][527]LogLevel: ActivateLevel /Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Tuto_LD 1 1 0
+[2020.06.12-08.17.49:818][527]LogBlueprintUserMessages: [PossessPlayerController_C_0] Hello
+[2020.06.12-08.17.49:914][527]PIE: Play in editor start time for /Game/_Osmose/Maps/UEDPIE_0_Osmose_P 0,921
+[2020.06.12-08.17.49:914][527]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Osmose/Maps/Osmose_P.Osmose_P:PersistentLevel' has LevelScriptBlueprint '/Game/_Osmose/Maps/Osmose_P.Osmose_P:PersistentLevel.Osmose_P' with GeneratedClass '/Game/_Osmose/Maps/Osmose_P.Osmose_P_C' with ClassGeneratedBy '/Game/_Osmose/Maps/Osmose_P.Osmose_P:PersistentLevel.Osmose_P'
+[2020.06.12-08.17.49:914][527]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel' has LevelScriptBlueprint '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Map_Credit_LD' with GeneratedClass '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD_C' with ClassGeneratedBy '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Map_Credit_LD'
+[2020.06.12-08.17.49:914][527]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel' has LevelScriptBlueprint '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Map_Feu_LD' with GeneratedClass '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD_C' with ClassGeneratedBy '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Map_Feu_LD'
+[2020.06.12-08.17.49:914][527]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Osmose/Maps/MapPrincipal/Map_Tuto_LD.Map_Tuto_LD:PersistentLevel' has LevelScriptBlueprint '/Game/_Osmose/Maps/MapPrincipal/Map_Tuto_LD.Map_Tuto_LD:PersistentLevel.Map_Tuto_LD' with GeneratedClass '/Game/_Osmose/Maps/MapPrincipal/Map_Tuto_LD.Map_Tuto_LD_C' with ClassGeneratedBy '/Game/_Osmose/Maps/MapPrincipal/Map_Tuto_LD.Map_Tuto_LD:PersistentLevel.Map_Tuto_LD'
+[2020.06.12-08.17.49:914][527]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel' has LevelScriptBlueprint '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Map_Eau_LD' with GeneratedClass '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD_C' with ClassGeneratedBy '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Map_Eau_LD'
+[2020.06.12-08.17.50:060][527]LogLevelStreaming: Display: FStreamLevelAction::UpdateOperation() LevelName Map_Tuto_LD, bIsLevelValid 1
+[2020.06.12-08.18.13:122][208]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.12-08.18.13:170][208]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.12-08.18.13:191][208]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.12-08.18.13:191][208]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Osmose/Maps/Osmose_P.Osmose_P:PersistentLevel' has LevelScriptBlueprint '/Game/_Osmose/Maps/Osmose_P.Osmose_P:PersistentLevel.Osmose_P' with GeneratedClass '/Game/_Osmose/Maps/Osmose_P.Osmose_P_C' with ClassGeneratedBy '/Game/_Osmose/Maps/Osmose_P.Osmose_P:PersistentLevel.Osmose_P'
+[2020.06.12-08.18.13:191][208]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel' has LevelScriptBlueprint '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Map_Credit_LD' with GeneratedClass '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD_C' with ClassGeneratedBy '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Map_Credit_LD'
+[2020.06.12-08.18.13:191][208]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel' has LevelScriptBlueprint '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Map_Feu_LD' with GeneratedClass '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD_C' with ClassGeneratedBy '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Map_Feu_LD'
+[2020.06.12-08.18.13:191][208]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Osmose/Maps/MapPrincipal/Map_Tuto_LD.Map_Tuto_LD:PersistentLevel' has LevelScriptBlueprint '/Game/_Osmose/Maps/MapPrincipal/Map_Tuto_LD.Map_Tuto_LD:PersistentLevel.Map_Tuto_LD' with GeneratedClass '/Game/_Osmose/Maps/MapPrincipal/Map_Tuto_LD.Map_Tuto_LD_C' with ClassGeneratedBy '/Game/_Osmose/Maps/MapPrincipal/Map_Tuto_LD.Map_Tuto_LD:PersistentLevel.Map_Tuto_LD'
+[2020.06.12-08.18.13:191][208]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel' has LevelScriptBlueprint '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Map_Eau_LD' with GeneratedClass '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD_C' with ClassGeneratedBy '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Map_Eau_LD'
+[2020.06.12-08.18.13:191][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.12-08.18.13:191][208]LogWorld: BeginTearingDown for /Game/_Osmose/Maps/UEDPIE_0_Osmose_P
+[2020.06.12-08.18.13:192][208]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.12-08.18.13:215][208]LogWorld: UWorld::CleanupWorld for Osmose_P, bSessionEnded=true, bCleanupResources=true
+[2020.06.12-08.18.13:215][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.12-08.18.13:223][208]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.12-08.18.13:224][208]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Osmose/Maps/Osmose_P.Osmose_P:PersistentLevel' has LevelScriptBlueprint '/Game/_Osmose/Maps/Osmose_P.Osmose_P:PersistentLevel.Osmose_P' with GeneratedClass '/Game/_Osmose/Maps/Osmose_P.Osmose_P_C' with ClassGeneratedBy '/Game/_Osmose/Maps/Osmose_P.Osmose_P:PersistentLevel.Osmose_P'
+[2020.06.12-08.18.13:224][208]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel' has LevelScriptBlueprint '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Map_Credit_LD' with GeneratedClass '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD_C' with ClassGeneratedBy '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Map_Credit_LD'
+[2020.06.12-08.18.13:224][208]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel' has LevelScriptBlueprint '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Map_Feu_LD' with GeneratedClass '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD_C' with ClassGeneratedBy '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Map_Feu_LD'
+[2020.06.12-08.18.13:224][208]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Osmose/Maps/MapPrincipal/Map_Tuto_LD.Map_Tuto_LD:PersistentLevel' has LevelScriptBlueprint '/Game/_Osmose/Maps/MapPrincipal/Map_Tuto_LD.Map_Tuto_LD:PersistentLevel.Map_Tuto_LD' with GeneratedClass '/Game/_Osmose/Maps/MapPrincipal/Map_Tuto_LD.Map_Tuto_LD_C' with ClassGeneratedBy '/Game/_Osmose/Maps/MapPrincipal/Map_Tuto_LD.Map_Tuto_LD:PersistentLevel.Map_Tuto_LD'
+[2020.06.12-08.18.13:224][208]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel' has LevelScriptBlueprint '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Map_Eau_LD' with GeneratedClass '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD_C' with ClassGeneratedBy '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Map_Eau_LD'
+[2020.06.12-08.18.13:229][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.12-08.18.13:257][208]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.12-08.18.13:260][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.12-08.18.13:294][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.06.12-08.18.13:349][209]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.06.12-08.18.13:388][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.06.12-08.18.40:252][433]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.12-08.18.40:289][433]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Osmose/Maps/Osmose_P.Osmose_P:PersistentLevel' has LevelScriptBlueprint '/Game/_Osmose/Maps/Osmose_P.Osmose_P:PersistentLevel.Osmose_P' with GeneratedClass '/Game/_Osmose/Maps/Osmose_P.Osmose_P_C' with ClassGeneratedBy '/Game/_Osmose/Maps/Osmose_P.Osmose_P:PersistentLevel.Osmose_P'
+[2020.06.12-08.18.40:289][433]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel' has LevelScriptBlueprint '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Map_Credit_LD' with GeneratedClass '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD_C' with ClassGeneratedBy '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Map_Credit_LD'
+[2020.06.12-08.18.40:289][433]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel' has LevelScriptBlueprint '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Map_Feu_LD' with GeneratedClass '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD_C' with ClassGeneratedBy '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Map_Feu_LD'
+[2020.06.12-08.18.40:289][433]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Osmose/Maps/MapPrincipal/Map_Tuto_LD.Map_Tuto_LD:PersistentLevel' has LevelScriptBlueprint '/Game/_Osmose/Maps/MapPrincipal/Map_Tuto_LD.Map_Tuto_LD:PersistentLevel.Map_Tuto_LD' with GeneratedClass '/Game/_Osmose/Maps/MapPrincipal/Map_Tuto_LD.Map_Tuto_LD_C' with ClassGeneratedBy '/Game/_Osmose/Maps/MapPrincipal/Map_Tuto_LD.Map_Tuto_LD:PersistentLevel.Map_Tuto_LD'
+[2020.06.12-08.18.40:289][433]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel' has LevelScriptBlueprint '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Map_Eau_LD' with GeneratedClass '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD_C' with ClassGeneratedBy '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Map_Eau_LD'
+[2020.06.12-08.18.40:289][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.12-08.18.40:289][433]PIE: New page: PIE session: Osmose_P (12 juin 2020 à 12:18:40)
+[2020.06.12-08.18.40:289][433]LogPlayLevel: Creating play world package: /Game/_Osmose/Maps/UEDPIE_0_Osmose_P
+[2020.06.12-08.18.40:292][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002253s)
+[2020.06.12-08.18.40:292][433]LogAIModule: Creating AISystem for world Osmose_P
+[2020.06.12-08.18.40:293][433]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2020.06.12-08.18.40:293][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Osmose/Maps/Osmose_P.Osmose_P to /Game/_Osmose/Maps/UEDPIE_0_Osmose_P.Osmose_P (0.003410s)
+[2020.06.12-08.18.40:328][433]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.06.12-08.18.40:331][433]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.12-08.18.40:331][433]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.12-08.18.40:331][433]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.12-08.18.40:331][433]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.12-08.18.40:331][433]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.12-08.18.40:331][433]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.12-08.18.40:331][433]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.12-08.18.40:331][433]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.12-08.18.40:332][433]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.12-08.18.40:332][433]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.12-08.18.40:359][433]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.12-08.18.40:359][433]LogAudioMixer: Display: Name: Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2020.06.12-08.18.40:359][433]LogAudioMixer: Display: Is Default: Yes
+[2020.06.12-08.18.40:359][433]LogAudioMixer: Display: Sample Rate: 44100
+[2020.06.12-08.18.40:359][433]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.12-08.18.40:359][433]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.12-08.18.40:359][433]LogAudioMixer: Display: Channel Order:
+[2020.06.12-08.18.40:359][433]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.12-08.18.40:359][433]LogAudioMixer: Display: 1: FrontRight
+[2020.06.12-08.18.40:400][433]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2020.06.12-08.18.40:401][433]LogInit: FAudioDevice initialized.
+[2020.06.12-08.18.40:412][433]LogLoad: Game class is 'PossessGameMode_C'
+[2020.06.12-08.18.40:583][433]LogWorld: Bringing World /Game/_Osmose/Maps/UEDPIE_0_Osmose_P.Osmose_P up for play (max tick rate 0) at 2020.06.12-10.18.40
+[2020.06.12-08.18.40:586][433]LogWorld: Bringing up level for play took: 0.003167
+[2020.06.12-08.18.40:586][433]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.06.12-08.18.40:588][433]LogLevel: ActivateLevel /Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Tuto_LD 1 1 0
+[2020.06.12-08.18.40:588][433]LogBlueprintUserMessages: [PossessPlayerController_C_0] Hello
+[2020.06.12-08.18.40:590][433]PIE: Play in editor start time for /Game/_Osmose/Maps/UEDPIE_0_Osmose_P -0,402
+[2020.06.12-08.18.40:591][433]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Osmose/Maps/Osmose_P.Osmose_P:PersistentLevel' has LevelScriptBlueprint '/Game/_Osmose/Maps/Osmose_P.Osmose_P:PersistentLevel.Osmose_P' with GeneratedClass '/Game/_Osmose/Maps/Osmose_P.Osmose_P_C' with ClassGeneratedBy '/Game/_Osmose/Maps/Osmose_P.Osmose_P:PersistentLevel.Osmose_P'
+[2020.06.12-08.18.40:591][433]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel' has LevelScriptBlueprint '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Map_Credit_LD' with GeneratedClass '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD_C' with ClassGeneratedBy '/Game/_Osmose/Maps/MapPrincipal/Map_Credit_LD.Map_Credit_LD:PersistentLevel.Map_Credit_LD'
+[2020.06.12-08.18.40:591][433]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel' has LevelScriptBlueprint '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Map_Feu_LD' with GeneratedClass '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD_C' with ClassGeneratedBy '/Game/_Osmose/Maps/MapPrincipal/Map_Feu_LD.Map_Feu_LD:PersistentLevel.Map_Feu_LD'
+[2020.06.12-08.18.40:591][433]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Osmose/Maps/MapPrincipal/Map_Tuto_LD.Map_Tuto_LD:PersistentLevel' has LevelScriptBlueprint '/Game/_Osmose/Maps/MapPrincipal/Map_Tuto_LD.Map_Tuto_LD:PersistentLevel.Map_Tuto_LD' with GeneratedClass '/Game/_Osmose/Maps/MapPrincipal/Map_Tuto_LD.Map_Tuto_LD_C' with ClassGeneratedBy '/Game/_Osmose/Maps/MapPrincipal/Map_Tuto_LD.Map_Tuto_LD:PersistentLevel.Map_Tuto_LD'
+[2020.06.12-08.18.40:591][433]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel' has LevelScriptBlueprint '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Map_Eau_LD' with GeneratedClass '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD_C' with ClassGeneratedBy '/Game/_Osmose/Maps/MapPrincipal/Map_Eau_LD.Map_Eau_LD:PersistentLevel.Map_Eau_LD'
+[2020.06.12-08.18.40:594][433]LogLevelStreaming: Display: FStreamLevelAction::UpdateOperation() LevelName Map_Tuto_LD, bIsLevelValid 1
+[2020.06.12-08.22.10:829][256]LogScript: Warning: Accessed None trying to read property CurrentWalkSound
+	FrogCharacter_C /Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Tuto_LD.Map_Tuto_LD:PersistentLevel.FrogCharacter9
+	Function /Game/_Osmose/BP_Class/Possessables/FrogCharacter.FrogCharacter_C:ExecuteUbergraph_FrogCharacter:0067
+[2020.06.12-08.22.10:830][256]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentWalkSound". Blueprint:  FrogCharacter Function:  Execute Ubergraph Frog Character Graph:  EventGraph Node:  Set Paused
+[2020.06.12-08.22.11:574][345]LogScript: Warning: Accessed None trying to read property CurrentWalkSound
+	FrogCharacter_C /Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Tuto_LD.Map_Tuto_LD:PersistentLevel.FrogCharacter9
+	Function /Game/_Osmose/BP_Class/Possessables/FrogCharacter.FrogCharacter_C:ExecuteUbergraph_FrogCharacter:00A9
+[2020.06.12-08.22.11:575][345]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentWalkSound". Blueprint:  FrogCharacter Function:  Execute Ubergraph Frog Character Graph:  EventGraph Node:  Set Paused
+[2020.06.12-08.22.14:056][639]LogScript: Warning: Accessed None trying to read property CurrentWalkSound
+	FrogCharacter_C /Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Tuto_LD.Map_Tuto_LD:PersistentLevel.FrogCharacter9
+	Function /Game/_Osmose/BP_Class/Possessables/FrogCharacter.FrogCharacter_C:ExecuteUbergraph_FrogCharacter:0067
+[2020.06.12-08.22.14:056][639]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentWalkSound". Blueprint:  FrogCharacter Function:  Execute Ubergraph Frog Character Graph:  EventGraph Node:  Set Paused
+[2020.06.12-08.22.15:324][789]LogScript: Warning: Accessed None trying to read property CurrentWalkSound
+	FrogCharacter_C /Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Tuto_LD.Map_Tuto_LD:PersistentLevel.FrogCharacter9
+	Function /Game/_Osmose/BP_Class/Possessables/FrogCharacter.FrogCharacter_C:ExecuteUbergraph_FrogCharacter:00A9
+[2020.06.12-08.22.15:324][789]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentWalkSound". Blueprint:  FrogCharacter Function:  Execute Ubergraph Frog Character Graph:  EventGraph Node:  Set Paused
+[2020.06.12-08.22.15:746][839]LogScript: Warning: Accessed None trying to read property CurrentWalkSound
+	FrogCharacter_C /Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Tuto_LD.Map_Tuto_LD:PersistentLevel.FrogCharacter9
+	Function /Game/_Osmose/BP_Class/Possessables/FrogCharacter.FrogCharacter_C:ExecuteUbergraph_FrogCharacter:0067
+[2020.06.12-08.22.15:746][839]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentWalkSound". Blueprint:  FrogCharacter Function:  Execute Ubergraph Frog Character Graph:  EventGraph Node:  Set Paused
+[2020.06.12-08.22.16:062][877]LogScript: Warning: Accessed None trying to read property CurrentWalkSound
+	FrogCharacter_C /Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Tuto_LD.Map_Tuto_LD:PersistentLevel.FrogCharacter9
+	Function /Game/_Osmose/BP_Class/Possessables/FrogCharacter.FrogCharacter_C:ExecuteUbergraph_FrogCharacter:00A9
+[2020.06.12-08.22.16:063][877]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentWalkSound". Blueprint:  FrogCharacter Function:  Execute Ubergraph Frog Character Graph:  EventGraph Node:  Set Paused
+[2020.06.12-08.22.16:549][935]LogScript: Warning: Accessed None trying to read property CurrentWalkSound
+	FrogCharacter_C /Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Tuto_LD.Map_Tuto_LD:PersistentLevel.FrogCharacter9
+	Function /Game/_Osmose/BP_Class/Possessables/FrogCharacter.FrogCharacter_C:ExecuteUbergraph_FrogCharacter:0067
+[2020.06.12-08.22.16:549][935]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentWalkSound". Blueprint:  FrogCharacter Function:  Execute Ubergraph Frog Character Graph:  EventGraph Node:  Set Paused
+[2020.06.12-08.22.16:792][964]LogScript: Warning: Accessed None trying to read property CurrentWalkSound
+	FrogCharacter_C /Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Tuto_LD.Map_Tuto_LD:PersistentLevel.FrogCharacter9
+	Function /Game/_Osmose/BP_Class/Possessables/FrogCharacter.FrogCharacter_C:ExecuteUbergraph_FrogCharacter:00A9
+[2020.06.12-08.22.16:792][964]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentWalkSound". Blueprint:  FrogCharacter Function:  Execute Ubergraph Frog Character Graph:  EventGraph Node:  Set Paused
+[2020.06.12-08.22.17:048][993]LogScript: Warning: Accessed None trying to read property CurrentWalkSound
+	FrogCharacter_C /Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Tuto_LD.Map_Tuto_LD:PersistentLevel.FrogCharacter9
+	Function /Game/_Osmose/BP_Class/Possessables/FrogCharacter.FrogCharacter_C:ExecuteUbergraph_FrogCharacter:0067
+[2020.06.12-08.22.17:049][993]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentWalkSound". Blueprint:  FrogCharacter Function:  Execute Ubergraph Frog Character Graph:  EventGraph Node:  Set Paused
+[2020.06.12-08.22.18:346][139]LogScript: Warning: Accessed None trying to read property CurrentWalkSound
+	FrogCharacter_C /Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Tuto_LD.Map_Tuto_LD:PersistentLevel.FrogCharacter9
+	Function /Game/_Osmose/BP_Class/Possessables/FrogCharacter.FrogCharacter_C:ExecuteUbergraph_FrogCharacter:00A9
+[2020.06.12-08.22.18:347][139]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentWalkSound". Blueprint:  FrogCharacter Function:  Execute Ubergraph Frog Character Graph:  EventGraph Node:  Set Paused
+[2020.06.12-08.22.18:589][166]LogScript: Warning: Accessed None trying to read property CurrentWalkSound
+	FrogCharacter_C /Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Tuto_LD.Map_Tuto_LD:PersistentLevel.FrogCharacter9
+	Function /Game/_Osmose/BP_Class/Possessables/FrogCharacter.FrogCharacter_C:ExecuteUbergraph_FrogCharacter:0067
+[2020.06.12-08.22.18:589][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentWalkSound". Blueprint:  FrogCharacter Function:  Execute Ubergraph Frog Character Graph:  EventGraph Node:  Set Paused
+[2020.06.12-08.22.18:879][198]LogScript: Warning: Accessed None trying to read property CurrentWalkSound
+	FrogCharacter_C /Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Tuto_LD.Map_Tuto_LD:PersistentLevel.FrogCharacter9
+	Function /Game/_Osmose/BP_Class/Possessables/FrogCharacter.FrogCharacter_C:ExecuteUbergraph_FrogCharacter:00A9
+[2020.06.12-08.22.18:880][198]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentWalkSound". Blueprint:  FrogCharacter Function:  Execute Ubergraph Frog Character Graph:  EventGraph Node:  Set Paused
+[2020.06.12-08.22.21:990][561]LogScript: Warning: Accessed None trying to read property CurrentWalkSound
+	FrogCharacter_C /Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Tuto_LD.Map_Tuto_LD:PersistentLevel.FrogCharacter9
+	Function /Game/_Osmose/BP_Class/Possessables/FrogCharacter.FrogCharacter_C:ExecuteUbergraph_FrogCharacter:0067
+[2020.06.12-08.22.21:990][561]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentWalkSound". Blueprint:  FrogCharacter Function:  Execute Ubergraph Frog Character Graph:  EventGraph Node:  Set Paused
+[2020.06.12-08.22.23:457][736]LogScript: Warning: Accessed None trying to read property CurrentWalkSound
+	FrogCharacter_C /Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Tuto_LD.Map_Tuto_LD:PersistentLevel.FrogCharacter9
+	Function /Game/_Osmose/BP_Class/Possessables/FrogCharacter.FrogCharacter_C:ExecuteUbergraph_FrogCharacter:00A9
+[2020.06.12-08.22.23:457][736]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentWalkSound". Blueprint:  FrogCharacter Function:  Execute Ubergraph Frog Character Graph:  EventGraph Node:  Set Paused
+[2020.06.12-08.22.29:851][496]LogScript: Warning: Accessed None trying to read property CurrentWalkSound
+	FrogCharacter_C /Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Tuto_LD.Map_Tuto_LD:PersistentLevel.FrogCharacter9
+	Function /Game/_Osmose/BP_Class/Possessables/FrogCharacter.FrogCharacter_C:ExecuteUbergraph_FrogCharacter:0067
+[2020.06.12-08.22.29:851][496]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentWalkSound". Blueprint:  FrogCharacter Function:  Execute Ubergraph Frog Character Graph:  EventGraph Node:  Set Paused
+[2020.06.12-08.24.55:331][749]LogLevel: ActivateLevel /Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Feu_LD 1 1 1
+[2020.06.12-08.24.55:332][749]LogLevelStreaming: Display: FStreamLevelAction::UpdateOperation() LevelName Map_Feu_LD, bIsLevelValid 1
+[2020.06.12-08.24.57:022][749]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant2.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.24.57:022][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant2.Leaf' 
+[2020.06.12-08.24.57:022][749]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant2.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.24.57:022][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant2.Leaf1' 
+[2020.06.12-08.24.57:022][749]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant_2.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.24.57:022][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant_2.Leaf' 
+[2020.06.12-08.24.57:022][749]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant_2.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.24.57:022][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant_2.Leaf1' 
+[2020.06.12-08.24.57:025][749]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant5.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.24.57:025][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant5.Leaf' 
+[2020.06.12-08.24.57:025][749]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant5.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.24.57:025][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant5.Leaf1' 
+[2020.06.12-08.24.57:025][749]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant6.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.24.57:025][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant6.Leaf' 
+[2020.06.12-08.24.57:025][749]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant6.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.24.57:025][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant6.Leaf1' 
+[2020.06.12-08.24.57:026][749]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant7.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.24.57:026][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant7.Leaf' 
+[2020.06.12-08.24.57:026][749]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant7.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.24.57:026][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant7.Leaf1' 
+[2020.06.12-08.24.57:026][749]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant8.Leaf has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.24.57:026][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant8.Leaf' 
+[2020.06.12-08.24.57:026][749]LogPhysics: Warning: Scale for /Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant8.Leaf1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.06.12-08.24.57:026][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Feu_LD.Map_Feu_LD:PersistentLevel.Plant8.Leaf1' 
+[2020.06.12-08.24.57:129][750]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.089339 > MaxSimulationTimeStep (0.050) for 'DeerCharacter21', movement 'Walking'
+[2020.06.12-08.24.57:134][750]LogLevelStreaming: Display: FStreamLevelAction::UpdateOperation() LevelName Map_Feu_LD, bIsLevelValid 1
+[2020.06.12-08.24.57:134][750]LogLevel: ActivateLevel /Game/_Osmose/Maps/MapPrincipal/UEDPIE_0_Map_Tuto_LD 1 0 1
+[2020.06.12-08.24.57:134][750]LogBlueprintUserMessages: [WindLaneAdvanced2] braseroend
+[2020.06.12-08.24.57:134][750]LogBlueprintUserMessages: [WindLaneAdvanced4_3] braseroend
+[2020.06.12-08.24.57:135][750]LogBlueprintUserMessages: [WindLaneAdvanced7_8] braseroend
+[2020.06.12-08.24.57:135][750]LogBlueprintUserMessages: [WindLaneAdvanced11_2] braseroend
+[2020.06.12-08.24.57:135][750]LogBlueprintUserMessages: [WindLaneAdvanced13_18] braseroend
+[2020.06.12-08.24.57:135][750]LogBlueprintUserMessages: [WindLaneAdvanced14_3] braseroend
+[2020.06.12-08.24.57:242][751]LogLevelStreaming: Display: FStreamLevelAction::UpdateOperation() LevelName Map_Tuto_LD, bIsLevelValid 1
+[2020.06.12-08.26.10:615][ 12]LogOutputDevice: Warning: 
+
+Script Stack (6 frames):
+PlayerController.ClientRestart
+PossessPlayerController_C.PossessPawn
+PossessPlayerController_C.ExecuteUbergraph_PossessPlayerController
+PossessPlayerController_C.Depossess
+PossessPlayerController_C.ExecuteUbergraph_PossessPlayerController
+PossessPlayerController_C.ReceiveTick
+
+[2020.06.12-08.26.12:278][ 12]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.664 s
+[2020.06.12-08.26.12:278][ 12]LogOutputDevice: Error: === Handled ensure: ===
+[2020.06.12-08.26.12:278][ 12]LogOutputDevice: Error: 
+[2020.06.12-08.26.12:278][ 12]LogOutputDevice: Error: Ensure condition failed: MyOwnerWorld [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Components/ActorComponent.cpp] [Line: 1153]
+[2020.06.12-08.26.12:278][ 12]LogOutputDevice: Error: 
+[2020.06.12-08.26.12:278][ 12]LogOutputDevice: Error: Stack: 
+[2020.06.12-08.26.12:278][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffab2bec119 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.12-08.26.12:278][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffab178e1d1 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.12-08.26.12:278][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffab200f838 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.12-08.26.12:278][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffab20c4cc4 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.12-08.26.12:278][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffab13187d6 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.12-08.26.12:278][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffac1bd42e8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.12-08.26.12:278][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffac1e20148 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.12-08.26.12:278][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffab13b7f18 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.12-08.26.12:278][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffab28494b9 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.12-08.26.12:278][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffab20dc50f UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.12-08.26.12:278][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffab19048e4 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.12-08.26.12:278][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffab132b702 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.12-08.26.12:278][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffac1bd42e8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.12-08.26.12:278][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffac1dfa62f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.12-08.26.12:278][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffac1e20cd2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.12-08.26.12:278][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffac1deedbb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffac1e209ef UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffac1e20cd2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffac1deedbb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffac1e209ef UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffac1e20cd2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffac1deedbb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffac1e209ef UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffac1e20cd2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffac1deedbb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffac1e209ef UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffac1e20cd2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffac1e20644 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffac1bd42e8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffac1e20148 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffab13b7f18 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffab2695b6a UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffab13cef17 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffab20f0586 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffab1397866 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffab24d7223 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffab24e5256 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffab5b99ff2 UE4Editor-Core.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffab5b9a393 UE4Editor-Core.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffab5baaa68 UE4Editor-Core.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffab25038b0 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffab25097c2 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffab1c8a25f UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffab1c95127 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffaab21ad60 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffaaba7e476 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ff746e47f62 UE4Editor.exe!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ff746e5c3ec UE4Editor.exe!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ff746e5c4ca UE4Editor.exe!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ff746e6ceae UE4Editor.exe!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ff746e6fcbe UE4Editor.exe!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffafe727bd4 KERNEL32.DLL!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: [Callstack] 0x00007ffafec8ce51 ntdll.dll!UnknownFunction []
+[2020.06.12-08.26.12:279][ 12]LogOutputDevice: Error: 
+[2020.06.12-08.26.12:280][ 12]LogStats:                SubmitErrorReport -  0.000 s
